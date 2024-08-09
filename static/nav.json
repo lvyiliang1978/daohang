@@ -1,10 +1,10 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "常用软件",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
+		"name": "youtube",
+		"href": "https://www.youtube.com/",
 		"desc": "软件安全与病毒分析,逆向、破解、技术",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
